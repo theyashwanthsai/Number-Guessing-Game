@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ```bash
-cargo           run                                                                                                                         
+cargo run                                                                                                             
         Finished dev [unoptimized + debuginfo] target(s) in 0.06s
         Running `target/debug/numbergame`
     Guess the number! Range - 0 to 1000
